@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Safari/605.1.15" version="26.2.12">
+  <diagram name="Page-1" id="A8_u68RfL2LV3q6IgXbs">
+    <mxGraphModel dx="978" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0DXgp-dB58mlAcGDl0mQ-1" value="Register&lt;div&gt;Enter username password&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="250" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0DXgp-dB58mlAcGDl0mQ-2" value="Account Registered as user&lt;div&gt;Redirect to welcome page&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="320" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0DXgp-dB58mlAcGDl0mQ-3" value="&lt;div&gt;Create Organization, request demo&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="390" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0DXgp-dB58mlAcGDl0mQ-4" value="&lt;div&gt;Account gets approved by system admin and user role can be changed to owner or manager&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="460" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0DXgp-dB58mlAcGDl0mQ-5" value="&lt;div&gt;Owner/Manager Roles&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="540" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0DXgp-dB58mlAcGDl0mQ-6" value="&lt;div&gt;Add/update staff accounts, manage restaurant&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="620" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0DXgp-dB58mlAcGDl0mQ-7" value="&lt;div&gt;Gastrolink Login/Register&lt;/div&gt;&lt;div&gt;Use to create organization and admin/manager roles&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="130" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0DXgp-dB58mlAcGDl0mQ-8" value="&lt;div&gt;Organization Login/Register&lt;/div&gt;&lt;div&gt;Used for staff and customers&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="130" width="200" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
