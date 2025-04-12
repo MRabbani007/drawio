@@ -22,35 +22,130 @@
         <mxCell id="0DXgp-dB58mlAcGDl0mQ-6" value="&lt;div&gt;Add/update staff accounts, manage restaurant&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="600" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0DXgp-dB58mlAcGDl0mQ-7" value="&lt;div&gt;Gastrolink Login/Register&lt;/div&gt;&lt;div&gt;Use to create organization and admin/manager roles&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="110" width="200" height="60" as="geometry" />
+        <mxCell id="0DXgp-dB58mlAcGDl0mQ-7" value="&lt;div&gt;Use to create organization and admin/manager roles&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="100" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0DXgp-dB58mlAcGDl0mQ-8" value="&lt;div&gt;Organization Login/Register&lt;/div&gt;&lt;div&gt;Used for staff and customers&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="110" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l8z0GSqfQcjcgcWUfK5j-1" value="&lt;div&gt;Customer / Guest&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l8z0GSqfQcjcgcWUfK5j-1" value="&lt;div&gt;Customer / Guest&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="220" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l8z0GSqfQcjcgcWUfK5j-2" value="View menu, order, make reservations, basket, previous orders, order again" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l8z0GSqfQcjcgcWUfK5j-2" value="View menu, order, make reservations, basket, previous orders, order again" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="310" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l8z0GSqfQcjcgcWUfK5j-3" value="User profile &amp;amp; settings&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0); color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; white-space: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22View%20menu%2C%20order%2C%20make%20reservations%2C%20basket%2C%20previous%20orders%2C%20order%20again%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22590%22%20y%3D%22330%22%20width%3D%22200%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l8z0GSqfQcjcgcWUfK5j-3" value="User profile &amp;amp; settings&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0); color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; white-space: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22View%20menu%2C%20order%2C%20make%20reservations%2C%20basket%2C%20previous%20orders%2C%20order%20again%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22590%22%20y%3D%22330%22%20width%3D%22200%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="390" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l8z0GSqfQcjcgcWUfK5j-4" value="Loyalty program, collected points, rewards and offers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l8z0GSqfQcjcgcWUfK5j-4" value="Loyalty program, collected points, rewards and offers" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="470" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l8z0GSqfQcjcgcWUfK5j-5" value="Staff" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l8z0GSqfQcjcgcWUfK5j-5" value="Staff" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="220" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l8z0GSqfQcjcgcWUfK5j-6" value="Review, accept modify orders" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l8z0GSqfQcjcgcWUfK5j-6" value="Review, accept modify orders" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="310" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l8z0GSqfQcjcgcWUfK5j-7" value="Review accept modify reservations, assign tables, manage table schedules for reservations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l8z0GSqfQcjcgcWUfK5j-7" value="Review accept modify reservations, assign tables, manage table schedules for reservations" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="390" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l8z0GSqfQcjcgcWUfK5j-8" value="handle order status, open table, add orders, close table and payment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l8z0GSqfQcjcgcWUfK5j-8" value="handle order status, open table, add orders, close table and payment" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="470" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CpEoVa2isis51Jbg1Gfa-1" value="Gastrolink Login/Register" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CpEoVa2isis51Jbg1Gfa-2" value="Owner and Staff" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CpEoVa2isis51Jbg1Gfa-4" value="NEWCLIENT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CpEoVa2isis51Jbg1Gfa-5" value="OWNER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CpEoVa2isis51Jbg1Gfa-6" value="MANAGER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CpEoVa2isis51Jbg1Gfa-7" value="ORG_ADMIN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="860" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CpEoVa2isis51Jbg1Gfa-8" value="WAITER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CpEoVa2isis51Jbg1Gfa-9" value="CASHIER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="860" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CpEoVa2isis51Jbg1Gfa-10" value="COOK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CpEoVa2isis51Jbg1Gfa-11" value="CUSTOMER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CpEoVa2isis51Jbg1Gfa-12" value="GUEST" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1000" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CpEoVa2isis51Jbg1Gfa-15" value="identified by guestId" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1060" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CpEoVa2isis51Jbg1Gfa-16" value="Dine-In Orders" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1000" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CpEoVa2isis51Jbg1Gfa-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CpEoVa2isis51Jbg1Gfa-4" target="CpEoVa2isis51Jbg1Gfa-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="960" as="sourcePoint" />
+            <mxPoint x="400" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CpEoVa2isis51Jbg1Gfa-22" value="Reserve Tables" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1060" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CpEoVa2isis51Jbg1Gfa-23" value="Delivery/Takeaway Orders" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CpEoVa2isis51Jbg1Gfa-24" value="Customer Loyalty Program" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CpEoVa2isis51Jbg1Gfa-25" value="Offers &amp;amp; discounts" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CpEoVa2isis51Jbg1Gfa-26" value="Collect award points" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CpEoVa2isis51Jbg1Gfa-28" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="CpEoVa2isis51Jbg1Gfa-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="1020" as="sourcePoint" />
+            <mxPoint x="210" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CpEoVa2isis51Jbg1Gfa-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CpEoVa2isis51Jbg1Gfa-12" target="CpEoVa2isis51Jbg1Gfa-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="1110" as="sourcePoint" />
+            <mxPoint x="390" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CpEoVa2isis51Jbg1Gfa-30" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="CpEoVa2isis51Jbg1Gfa-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="1021" as="sourcePoint" />
+            <mxPoint x="390" y="1060" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="1021" />
+              <mxPoint x="330" y="1080" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CpEoVa2isis51Jbg1Gfa-34" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="1080" as="sourcePoint" />
+            <mxPoint x="360" y="1139" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="1080" />
+              <mxPoint x="330" y="1139" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CpEoVa2isis51Jbg1Gfa-35" value="Register Account" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
